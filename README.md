@@ -5,3 +5,6 @@ A repository containing all my completed coding challenges from various coding c
 
 ## [Eloquent JavaScript]()
 
+- Chapter 2 - Program Structure
+- Chapter 3 - Functions
+- Chapter 4 - Data Structures: Objects and Arrays	
